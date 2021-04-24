@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News4You</string>
+    <string name="news">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="artikel_teilen">Artikel Teilen</string>
+    <string name="artikel_lesen">Artikel lesen</string>
+    <string name="einstellungen">Einstellungen</string>
+    <string name="general_settings">General Settings</string>
+    <string name="land_wechseln">Land Wechseln</string>
+    <string name="abbrechen">Abbrechen</string>
+    <string name="bestätigen">Bestätigen</string>
+</resources>
