@@ -16,7 +16,7 @@
 
 ## How to use it
 - The API-Key is removed, since it is a private one
-- To make the app work on your end you must insert you own [NewsAPI](https://newsapi.org/) API-Key into [NewsViewModel.kt](News4You/app/src/main/java/com/example/news4you/overview/NewsViewModel.kt)
+- To make the app work on your end you must insert you own [NewsAPI](https://newsapi.org/) API-Key into [NewsViewModel.kt](https://github.com/Zerainen/News4You/blob/master/app/src/main/java/com/example/news4you/overview/NewsViewModel.kt)
 
 ## Future To-Dos
 - Make it possible to change the country the news are coming from with a RadioDialog
