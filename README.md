@@ -7,6 +7,10 @@
 - In the detail-view you can visit or share the website the news is from
 
 ## How does it look like?
+- Homepage
+![Homepage](News4You/screenshots/screenshot_detail_view_24-04-2021.png)
+- Detail View
+![Detail View](News4You/screenshots/screenshot_homepage_24-04-2021.png)
 
 ## What is it for?
 - The purpose of this project is to get familiar with Android Development & Kotlin
@@ -14,7 +18,7 @@
 
 ## How to use it
 - The API-Key is removed, since it is a private one
-- To make the app work on your end you must insert you own [NewsAPI](https://newsapi.org/) API-Key into [NewsViewModel.kt](../NewsViewModel.kt)
+- To make the app work on your end you must insert you own [NewsAPI](https://newsapi.org/) API-Key into [NewsViewModel.kt](News4You/app/src/main/java/com/example/news4you/overview/NewsViewModel.kt)
 
 ## Future To-Dos
 - Make it possible to change the country the news are coming from with a RadioDialog
