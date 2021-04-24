@@ -7,10 +7,8 @@
 - In the detail-view you can visit or share the website the news is from
 
 ## How does it look like?
-- Homepage
-![Homepage](https://github.com/Zerainen/News4You/blob/master/screenshots/screenshot_detail_view_24-04-2021.png)
-- Detail View
-![Detail View](https://github.com/Zerainen/News4You/blob/master/screenshots/screenshot_homepage_24-04-2021.png)
+![Homepage](https://github.com/Zerainen/News4You/blob/master/screenshots/screenshot_homepage_24-04-2021.png)
+![Detail View](https://github.com/Zerainen/News4You/blob/master/screenshots/screenshot_detail_view_24-04-2021.png)
 
 ## What is it for?
 - The purpose of this project is to get familiar with Android Development & Kotlin
